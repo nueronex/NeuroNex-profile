@@ -14,13 +14,13 @@ Latest Demo: Coming Soon 🚧
 
 💬 Conversational AI Assistants – Human-like, context-aware interactions
 
-🛠️ Custom AI Integrations – Tailored to client-specific workflows
+🛠 Custom AI Integrations – Tailored to client-specific workflows
 
 🔐 Privacy & Security First – End-to-end encryption & ethical AI use
 
 🌍 Scalable & Global – Built to adapt for any user base, anywhere
 
-🛠️ Tech Stack
+🛠 Tech Stack
 🔧 Backend
 
 Python 3.11+
@@ -48,10 +48,21 @@ Pandas / NumPy
 TensorFlow / PyTorch
 
 LangChain / Custom AI Models
-⚙️ Setup Instructions
+
+📁 Project Structure Example
+├── app.py                # Backend API
+├── templates/            # HTML templates
+│   └── index.html         # Main UI
+├── static/               # CSS, JS, images
+│   └── style.css          # UI styling
+├── models/               # AI & ML models
+└── README.md             # Documentation
+
+⚙ Setup Instructions
 1️⃣ Clone Repository
 git clone https://github.com/nueronex/project_name
 cd project_name
+
 2️⃣ Create Virtual Environment (optional but recommended)
 python -m venv venv
 # Windows
@@ -73,6 +84,7 @@ python app.py
 
 
 Server URL: http://127.0.0.1:5000
+
 🌟 Our Vision
 
 At Neuronex, we believe AI should be:
