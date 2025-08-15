@@ -162,3 +162,11 @@ footer {
     background: rgba(0,0,0,0.7);
     font-size: 0.9em;
 }
+.image{
+   width: 3.5rem;  
+    height: 3.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 2rem;
+ }
+    
