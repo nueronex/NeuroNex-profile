@@ -61,7 +61,7 @@ LangChain / Custom AI Models
 Clone the repository
 
 git clone https://github.com/nueronex
-cd project_name
+cd Neuronex_info
 
 
 Set up virtual environment (optional)
