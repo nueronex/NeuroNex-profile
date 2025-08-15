@@ -48,21 +48,10 @@ Pandas / NumPy
 TensorFlow / PyTorch
 
 LangChain / Custom AI Models
-
-📁 Project Structure Example
-├── app.py                # Backend API
-├── templates/            # HTML templates
-│   └── index.html         # Main UI
-├── static/               # CSS, JS, images
-│   └── style.css          # UI styling
-├── models/               # AI & ML models
-└── README.md             # Documentation
-
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
 git clone https://github.com/nueronex/project_name
 cd project_name
-
 2️⃣ Create Virtual Environment (optional but recommended)
 python -m venv venv
 # Windows
@@ -84,7 +73,6 @@ python app.py
 
 
 Server URL: http://127.0.0.1:5000
-
 🌟 Our Vision
 
 At Neuronex, we believe AI should be:
