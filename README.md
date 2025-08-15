@@ -58,32 +58,29 @@ LangChain / Custom AI Models
 ├── models/               # AI & ML models
 └── README.md             # Documentation
 
-⚙ Setup Instructions
-1️⃣ Clone Repository
-git clone https://github.com/nueronex/project_name
+Clone the repository
+
+git clone https://github.com/nueronex
 cd project_name
 
-2️⃣ Create Virtual Environment (optional but recommended)
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
 
-3️⃣ Install Dependencies
+Set up virtual environment (optional)
+
+python -m venv venv
+venv\Scripts\activate     # Windows
+source venv/bin/activate  # macOS/Linux
+
+
+Install dependencies
+
 pip install -r requirements.txt
 
-4️⃣ Set Environment Variables
 
-Create a .env file:
+Configure environment variables (for AI APIs or DB credentials)
 
-OPENAI_API_KEY=your_api_key_here
+Run the application
 
-5️⃣ Run the Application
-python app.py
-
-
-Server URL: http://127.0.0.1:5000
+python app.py  # or project-specific start command
 
 🌟 Our Vision
 
