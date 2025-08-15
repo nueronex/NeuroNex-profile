@@ -169,4 +169,18 @@ footer {
     object-fit: cover;
     margin-right: 2rem;
  }
+.logo {
+    margin-top: 0.5rem;
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+}
+
+.image-logo {
+    display:flex;
+    margin-left: 0rem;
+}
+
     
